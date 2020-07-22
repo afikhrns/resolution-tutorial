@@ -1,4 +1,5 @@
 Tutorial Github WPU:
 - membuat akun
+- membuat repository baru
 - fork
-- branch
+
